@@ -5,7 +5,7 @@ You may refer to the [repository](https://github.com/shuowang26/EndoKED.git) con
 
 ### News
 
-* **` Feb. 29nd, 2024`:** EndoKED is under review .
+* **` Feb. 29th, 2024`:** EndoKED is under review .
   
 ## Overeview
 Overview of the EndoKED design and applications to polyp diagnosis. (a) The intrinsic supervision from raw colonoscopy reports is extracted leveraging large language and vision models. The report-level lesion label is firstly extracted from the free-text description by a large language model. Then multiple instance learning (MIL) technique propagates the report-level label to the image level. The region-level bounding box is obtained from class activation map (CAM). A large vision model takes the region-level boxes as prompt and generate pixel-level lesion segmentation. (b) The image classification model for optical biopsy is developed in a data-efficient way - pre-training using multi-centre colonoscopy reports and fine-tuning with limited pathology annotation.

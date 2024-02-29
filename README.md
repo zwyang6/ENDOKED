@@ -1,7 +1,8 @@
 # Knowledge Extraction and Distillation from Large-Scale Image-Text Colonoscopy Reports Leveraging Large Language and Vision Models.
 
-We propose to leverage text reports using large language models (LLMs) and colonoscopy images (representations) to provide pixel-level annotation of polyps thereby tackling data annotation challenges in colonoscopy
-You may refer to the [repository](https://github.com/shuowang26/EndoKED.git) contributed by other co-authors.
+We propose to leverage text reports using large language models (LLMs) and colonoscopy images (representations) to provide pixel-level annotation of polyps thereby tackling data annotation challenges in colonoscopy.
+
+You may also refer to the [repository](https://github.com/shuowang26/EndoKED.git) contributed by other co-authors.
 
 ### News
 

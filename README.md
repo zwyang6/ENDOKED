@@ -7,6 +7,7 @@ You may also refer to the [repository](https://github.com/shuowang26/EndoKED.git
 ### News
 
 * **` Feb. 29th, 2024`:** EndoKED is under review .
+* **` May. 16th, 2025`:** EndoKED is Accepted to Nature Biomedical Engineering (IF=27.7).
 * If you find this work helpful, please give us a :star2: to receive the updation.
   
 ## Overeview
